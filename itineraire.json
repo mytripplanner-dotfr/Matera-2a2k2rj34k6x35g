@@ -1,0 +1,131 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Matera, la Cité des Sassi : Un Voyage Hors du Temps",
+  "budget_total": "520€",
+  "duree": "2 jours",
+  "temps_vol": "2h de vol direct depuis Paris + 1h30 de transfert",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et première immersion dans les Sassi",
+      "legende": "Arrivée à Matera, la ville troglodyte. Après l'installation, une première balade s'impose pour s'imprégner de l'atmosphère unique des Sassi. Laissez-vous guider par les ruelles sinueuses et découvrez les habitations creusées dans la roche, témoins d'une histoire millénaire. Une journée légère pour une découverte en douceur.",
+      "lieu": "Matera",
+      "activites": [
+        "🛬 <strong>Arrivée à Matera et installation à l'hôtel</strong>: Après votre vol et transfert depuis Bari, installez-vous confortablement dans votre hôtel au cœur de Matera. Prenez un moment pour vous rafraîchir avant de débuter l'exploration.",
+        "🚶‍♂️ <strong>Balade découverte dans le Sasso Barisano</strong>: Commencez votre immersion par le Sasso Barisano, la partie la plus \"moderne\" des Sassi. Admirez les façades restaurées et les églises rupestres qui jalonnent ce quartier historique."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Matera est une ville très vallonnée avec de nombreuses marches. Prévoyez des chaussures confortables pour explorer les Sassi."
+        },
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Depuis l'aéroport de Bari, un bus direct (service \"Pugliairbus\" ou \"MarinoBus\") vous mènera à Matera en environ 1h. Les billets peuvent être achetés en ligne ou sur place."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌅",
+      "titre": "Exploration profonde des Sassi et panoramas",
+      "legende": "Plongez au cœur de l'histoire de Matera en explorant le Sasso Caveoso, le plus ancien quartier troglodyte. Visitez des maisons-grottes et des églises rupestres, puis prenez de la hauteur pour admirer des panoramas époustouflants sur cette ville unique au monde. Une journée riche en découvertes et en émotions.",
+      "lieu": "Matera",
+      "activites": [
+        "🏛️ <strong>Visite du Sasso Caveoso et d'une Casa Grotta</strong>: Explorez le Sasso Caveoso, le quartier le plus ancien et le plus authentique des Sassi. Ne manquez pas de visiter une \"Casa Grotta\" pour comprendre le mode de vie ancestral des habitants de Matera.",
+        "⛪ <strong>Exploration des églises rupestres (Chiesa di Santa Lucia alle Malve)</strong>: Découvrez la richesse artistique des églises rupestres, véritables trésors cachés dans la roche. La Chiesa di Santa Lucia alle Malve offre des fresques byzantines remarquables.",
+        "🌅 <strong>Coucher de soleil depuis le Parco della Murgia Materana</strong>: Traversez le canyon de la Gravina pour atteindre le Parco della Murgia Materana. De là, profitez d'une vue panoramique spectaculaire sur les Sassi, particulièrement magique au coucher du soleil."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie locale",
+          "texte": "Goûtez au \"pane di Matera\", un pain traditionnel à la croûte épaisse, et aux \"orecchiette con le cime di rapa\", des pâtes typiques des Pouilles."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Randonnée",
+          "texte": "Pour atteindre le Parco della Murgia Materana, une marche d'environ 30-40 minutes est nécessaire depuis le centre des Sassi, traversant un pont suspendu."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "200€/pers (Vol A/R Paris-Bari en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "50€/pers (Bus A/R Bari-Matera et déplacements locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "120€/pers (2 déjeuners, 2 dîners, 2 petits-déjeuners)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "100€/pers (1 nuit en hôtel 3 étoiles)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "40€/pers (Entrées musées et sites)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de printemps (avril-mai) et d'automne (septembre-octobre).",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Matera, avec environ 60 000 habitants, est une ville à taille humaine où l'accueil est chaleureux.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "Située dans la région de la Basilicate en Italie, Matera est un joyau du sud de l'Italie.",
+      "symbole": "🇮🇹"
+    },
+    {
+      "titre": "Matera est l'une des plus anciennes villes habitées au monde, classée au patrimoine mondial de l'UNESCO pour ses \"Sassi\" (habitations troglodytes).",
+      "symbole": "🌍"
+    },
+    {
+      "titre": "La ville a été Capitale Européenne de la Culture en 2019, ce qui a dynamisé son offre culturelle et touristique.",
+      "symbole": "✨"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Basilicate",
+      "url": "https://www.basilicataturistica.it/en/matera/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports Bari-Matera",
+      "titre": "Ferrovie Appulo Lucane",
+      "url": "https://www.ferrovieappulolucane.it/",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo",
+      "titre": "Il Meteo Matera",
+      "url": "https://www.ilmeteo.it/meteo/Matera",
+      "symbole": "🌤️"
+    }
+  ]
+}
